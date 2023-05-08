@@ -19,7 +19,12 @@
 
 ## 獲得獎項
 - 公益串聯第一名
+![IMG_1106](https://user-images.githubusercontent.com/100358083/232519929-5da99372-28d7-4937-ba7b-4f1a175dd673.jpg)
 - 公益行銷佳作
+![IMG_1106](https://user-images.githubusercontent.com/100358083/232519929-5da99372-28d7-4937-ba7b-4f1a175dd673.jpg)
+
+## 實習證明
+![IMG_1106](https://user-images.githubusercontent.com/100358083/232519929-5da99372-28d7-4937-ba7b-4f1a175dd673.jpg)
 
 獎項證書於附件檔案
 
