@@ -22,6 +22,7 @@
 
 ![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%85%AC%E7%9B%8A%E4%B8%B2%E8%81%AF%E7%AC%AC%E4%B8%80%E5%90%8D.jpg)
 - 公益行銷佳作
+
 ![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%85%AC%E7%9B%8A%E8%A1%8C%E9%8A%B7%E4%BD%B3%E4%BD%9C.jpg)
 
 ## 實習證明
