@@ -28,8 +28,6 @@
 ## 實習證明
 ![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%AF%A6%E7%BF%92%E8%AD%89%E6%98%8E.jpg)
 
-獎項證書於附件檔案
-
 ## 紛絲專頁
 IG連結：https://instagram.com/ec.can_love_4?igshid=YmMyMTA2M2Y=
 
