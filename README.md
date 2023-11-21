@@ -17,6 +17,15 @@
 
 我認為這項作業最難的就是讓瀏覽者可以與粉專真正的有互動，在如此短暫的時間以及不打廣告的情況下，比較難讓用戶去滑到我們，所以就必須用hashtag和各種吸引人的標題和限時動態。
 
+## 紛絲專頁
+IG連結：https://instagram.com/ec.can_love_4?igshid=YmMyMTA2M2Y=
+
+## 粉絲專頁截圖
+![IMG_1106](https://user-images.githubusercontent.com/100358083/232519929-5da99372-28d7-4937-ba7b-4f1a175dd673.jpg)
+![IMG_1105](https://user-images.githubusercontent.com/100358083/232519951-3cbc8dd5-cb2e-4266-9eb7-20d560b6923a.jpg)
+![IMG_1104](https://user-images.githubusercontent.com/100358083/232519967-fe79703d-c7a9-44c2-96a3-79543cabe4a1.jpg)
+![IMG_1103](https://user-images.githubusercontent.com/100358083/232519971-e72e2c50-be97-4fee-ad80-371b3168f3d7.jpg)
+
 ## 獲得獎項
 - 公益串聯第一名
 
@@ -27,12 +36,3 @@
 
 ## 實習證明
 ![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%AF%A6%E7%BF%92%E8%AD%89%E6%98%8E.jpg)
-
-## 紛絲專頁
-IG連結：https://instagram.com/ec.can_love_4?igshid=YmMyMTA2M2Y=
-
-## 粉絲專頁截圖
-![IMG_1106](https://user-images.githubusercontent.com/100358083/232519929-5da99372-28d7-4937-ba7b-4f1a175dd673.jpg)
-![IMG_1105](https://user-images.githubusercontent.com/100358083/232519951-3cbc8dd5-cb2e-4266-9eb7-20d560b6923a.jpg)
-![IMG_1104](https://user-images.githubusercontent.com/100358083/232519967-fe79703d-c7a9-44c2-96a3-79543cabe4a1.jpg)
-![IMG_1103](https://user-images.githubusercontent.com/100358083/232519971-e72e2c50-be97-4fee-ad80-371b3168f3d7.jpg)
