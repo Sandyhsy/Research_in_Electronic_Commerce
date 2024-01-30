@@ -1,3 +1,42 @@
+# E-Commerce
+
+## Objectives
+Operate a social media platform as a group, with each team promoting a different theme related to charitable foundations. The teams engage in a competition with other schools, aiming to generate interest through posts or other practical actions and raising more funds.
+
+## Implementation Ideas
+Due to time constraints, we have scheduled tight posting times (every Monday, Wednesday, and Friday). Our group's theme is depression, and we interviewed with Mr. Su He, the founder of the Can Love Foundation. The interview focused on understanding the needs of individuals diagnosed with depression and how to overcome this condition. Additionally, we initiated a clothing donation drive, with the collected items going to a second-hand clothing recycling workshop specifically established for friends dealing with depression (Association of Psychological Rehabilitation Families in Taipei). This not only contributes to a good cause but also raises awareness of and importance of these associations and charitable organizations. Furthermore, we launched an "Anti-Depression Grocery Store" initiative, allowing people to anonymously share their troubles. We provide positive responses to support them as much as possible.
+
+## Responsibilities
+As the team leader, my role involves synthesizing everyone's ideas during discussions and resolving communication issues. On the Facebook page, my main responsibilities include creating some post images, generating ideas for interesting and lighthearted posts, developing and brainstorming for psychological test posts, video editing, directing, and scripting.
+
+I utilize a grid-style post layout to create a neat and organized appearance. Each post has a fixed template, making it easier for viewers to distinguish the content of each post.
+
+During this project, I learned the challenges of effective communication. Ensuring that each member understands and agrees with the direction in meetings is crucial to avoid discrepancies between what is produced and what everyone envisions. Therefore, constant confirmation of alignment is essential during meetings.
+
+In the last month before the competition concludes, to increase the page's click-through rate, I devised three main themes: "Fun and Relaxing," "How to Stay Away from Depression," and "Psychological Tests." The first is amusing to bring a smile to people dealing with depression. The second is simple psychological tests to increase the time viewers spend on the page and give them a preliminary impression of the page and charitable organizations.
+
+I believe the most challenging aspect of this assignment is creating genuine interaction with viewers. In such a short time and without advertising, it's challenging to make users scroll to us. Therefore, I use hashtags and eye-catching titles and stories in limited-time posts.
+
+## Fan Page
+IG Link：https://instagram.com/ec.can_love_4?igshid=YmMyMTA2M2Y=
+### Fan Page Screenshots
+![IMG_1106](https://user-images.githubusercontent.com/100358083/232519929-5da99372-28d7-4937-ba7b-4f1a175dd673.jpg)
+![IMG_1105](https://user-images.githubusercontent.com/100358083/232519951-3cbc8dd5-cb2e-4266-9eb7-20d560b6923a.jpg)
+![IMG_1104](https://user-images.githubusercontent.com/100358083/232519967-fe79703d-c7a9-44c2-96a3-79543cabe4a1.jpg)
+![IMG_1103](https://user-images.githubusercontent.com/100358083/232519971-e72e2c50-be97-4fee-ad80-371b3168f3d7.jpg)
+
+## Awards
+- First Place in Public Welfare Connection
+![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%85%AC%E7%9B%8A%E4%B8%B2%E8%81%AF%E7%AC%AC%E4%B8%80%E5%90%8D.jpg)
+
+- Honorable Reward in Public Welfare Marketing
+![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%85%AC%E7%9B%8A%E8%A1%8C%E9%8A%B7%E4%BD%B3%E4%BD%9C.jpg)
+
+## Internship Certificate
+![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%AF%A6%E7%BF%92%E8%AD%89%E6%98%8E.jpg)
+
+
+
 # 電子商務
 
 ## 作業目標
@@ -19,8 +58,7 @@
 
 ## 紛絲專頁
 IG連結：https://instagram.com/ec.can_love_4?igshid=YmMyMTA2M2Y=
-
-## 粉絲專頁截圖
+### 粉絲專頁截圖
 ![IMG_1106](https://user-images.githubusercontent.com/100358083/232519929-5da99372-28d7-4937-ba7b-4f1a175dd673.jpg)
 ![IMG_1105](https://user-images.githubusercontent.com/100358083/232519951-3cbc8dd5-cb2e-4266-9eb7-20d560b6923a.jpg)
 ![IMG_1104](https://user-images.githubusercontent.com/100358083/232519967-fe79703d-c7a9-44c2-96a3-79543cabe4a1.jpg)
@@ -28,10 +66,9 @@ IG連結：https://instagram.com/ec.can_love_4?igshid=YmMyMTA2M2Y=
 
 ## 獲得獎項
 - 公益串聯第一名
-
 ![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%85%AC%E7%9B%8A%E4%B8%B2%E8%81%AF%E7%AC%AC%E4%B8%80%E5%90%8D.jpg)
-- 公益行銷佳作
 
+- 公益行銷佳作
 ![IMG_1106](https://github.com/Sandyhsy/Research_in_Electronic_Commerce/blob/main/%E6%8C%BA%E5%A5%BD-%E5%85%AC%E7%9B%8A%E8%A1%8C%E9%8A%B7%E4%BD%B3%E4%BD%9C.jpg)
 
 ## 實習證明
